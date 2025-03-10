@@ -7,3 +7,5 @@ GO
 SELECT optname FROM master.DBO.MSreplication_options
 SELECT * FROM master.DBO.MSreplication_options
 GO
+CREATE DATABASE TESTDB
+GO
